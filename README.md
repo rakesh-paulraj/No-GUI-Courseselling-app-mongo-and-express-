@@ -1,0 +1,1 @@
+This is a simple backend of a Course selling app using express and mongodb,just for learning purpose with authentication of users to get the course and provide courses by the admins using with middlewares,routes,
